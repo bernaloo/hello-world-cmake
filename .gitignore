@@ -1,1 +1,6 @@
+# ignore build and debug files
 /build/
+/debug/
+# ignore eclipse files
+.cproject
+.project
